@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+ul{
+    background-color: rgb(39, 39, 58);
+    text-align:center;
+}
+
+li{
+    background-color: rgb(49, 54, 41);
+    color: white;
+    font: bolder;
+    font-size: 1.5rem;
+    line-height: 2;
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    text-align: center;
+    margin: 2rem;
+}
+
+button{
+    color: white;
+    font: bold;
+    background-color:green;
+    font-size: 1.5rem;
+}
+div{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: auto;
+    margin-bottom:4rem;
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 2rem;
+}
+input{
+    font-size: 1.5rem;
+    border: 2px solid grey;
+    background-color: rgb(49, 54, 41);
+    color: white;
+}
